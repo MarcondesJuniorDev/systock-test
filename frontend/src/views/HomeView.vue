@@ -4,6 +4,9 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
-    <TheWelcome />
+    <div class="container">
+      <h1>Bem-vindo ao Systock</h1>
+      <p>Este é um sistema simples de gerenciamento de usuários.</p>
+    </div>
   </main>
 </template>
